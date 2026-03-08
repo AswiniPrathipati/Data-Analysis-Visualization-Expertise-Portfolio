@@ -1,0 +1,5 @@
+Google Colab
+pandas
+numpy
+matplotlib
+seaborn
